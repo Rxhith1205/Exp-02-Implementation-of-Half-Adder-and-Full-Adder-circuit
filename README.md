@@ -45,6 +45,7 @@ RegisterNumber: 23007422
 half adder:
 
 ![image](https://github.com/Rxhith1205/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473311/4a4c2a86-2321-4e87-91df-6a653434d67b)
+
 full adder:
 
 ![image](https://github.com/Rxhith1205/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473311/7ef6ad1d-8354-4434-8b12-90250849527b)
