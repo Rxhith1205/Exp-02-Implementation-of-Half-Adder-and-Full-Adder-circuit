@@ -43,30 +43,40 @@ RegisterNumber: 23007422
 */
 ### code:
 half adder:
+
 ![image](https://github.com/Rxhith1205/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473311/4a4c2a86-2321-4e87-91df-6a653434d67b)
 full adder:
+
 ![image](https://github.com/Rxhith1205/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473311/7ef6ad1d-8354-4434-8b12-90250849527b)
 
 ### Output:
 RTL:
+
 half adder:
-![image](https://github.com/Rxhith1205/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473311/211689e7-d441-4456-b03c-4f57dca39825)
+
+![image](https://github.com/Rxhith1205/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473311/87df46f5-1349-4b10-929e-7a596a377c63)
+
 full adder:
+
 ![image](https://github.com/Rxhith1205/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473311/f124254a-5195-498a-a641-4c024c4e7fbb)
 
 ### TIMING DIAGRAM:
 half adder:
+
 ![image](https://github.com/Rxhith1205/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473311/b1c888f6-7533-4634-ba82-956e7487aee0)
 
 full adder:
+
 ![image](https://github.com/Rxhith1205/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473311/88799321-1f50-45d2-bb83-f394e947926b)
 
 
 ### TRUTH TABLE:
 half adder:
+
 ![image](https://github.com/Rxhith1205/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473311/c273084a-327c-4a11-a21d-f49eaab805c2)
 
 full adder:
+
 ![image](https://github.com/Rxhith1205/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473311/6ab97aa0-014c-4575-b8a6-8487b8fa39a4)
 
 ### Result:
